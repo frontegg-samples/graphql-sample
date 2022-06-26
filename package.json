@@ -3,6 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
+  "author": {
+    "name": "Frontegg",
+    "email": "hello@frontegg.com",
+    "url": "https://frontegg.com"
+  },
+  "keywords": [
+    "graphql",
+    "sample",
+    "frontegg",
+    "authentication",
+    "jwt",
+    "apollo",
+    "frontend",
+    "react",
+    "login",
+  ],
   "dependencies": {
     "@apollo/client": "^3.6.9",
     "@frontegg/react": "^4.0.21-alpha.2563816483",
